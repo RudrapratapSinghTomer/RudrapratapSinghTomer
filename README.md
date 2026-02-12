@@ -97,17 +97,18 @@ Python • PyTorch • TensorFlow • OpenCV • MySQL • Git • Scikit-Learn 
 
 <td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-
-</td>
-
-<td width="50%">
-
 ## 📂 Work + Resume + Contact
 
 📁 Projects → https://github.com/RudrapratapSinghTomer/RudrapratapSinghTomer
 📄 Resume → https://drive.google.com/file/d/12GpeSwQUOTfIKn8WOJSr3K4s5YnadRpF/view?usp=sharing   
 📧 Email → **rudrawork01@gmail.com**
+
+
+</td>
+
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 </td>
 
