@@ -4,83 +4,75 @@
 Data Science Enthusiast | Machine Learning | Deep Learning | PyTorch | Computer Vision
 </h3>
 
----
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer+in+Progress;Deep+Learning+%7C+PyTorch+%7C+Computer+Vision;Building+Real+World+ML+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&color=00E7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Deep+Learning+%7C+PyTorch+%7C+Computer+Vision;Building+Real+World+ML+Projects;Learning+AI+By+Building+From+Scratch" />
 </p>
 
 ---
 
-## 🧠 AI / Data Science Work Environment
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+### 🚀 About Me
+
+💡 Passionate about **Data Science, ML & Deep Learning**  
+🧠 Implementing **DL architectures from scratch**  
+👁 Exploring **Computer Vision & Real-world ML pipelines**  
+📈 Preparing for **Data Scientist / ML Engineer roles**  
+⚙ Strong base in **Training, Evaluation & Optimization**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="50%">
 
-- 📊 Passionate about **Data Science, Machine Learning & Deep Learning**
-- 🧠 Implementing **Deep Learning architectures from scratch**
-- 👁 Exploring **Computer Vision & Real-world ML pipelines**
-- 📈 Preparing for **Data Scientist / ML Engineer roles**
-- 🏗 Building strong fundamentals in **Model Training, Evaluation & Optimization**
+### 🔭 Current Work
+🔥 CNN Architecture Implementations  
+👉  
+https://github.com/RudrapratapSinghTomer/CNN-Architectures-In-Pytorch
 
----
+</td>
 
-## 🔭 Current Work
+<td width="50%">
 
-🔥 Working on CNN Architecture Implementations  
-👉 https://github.com/RudrapratapSinghTomer/CNN-Architectures-In-Pytorch
-
----
-
-## 🌱 Currently Learning
-
+### 🌱 Currently Learning
 🧠 Deep Learning Architecture Internals  
-⚙️ PyTorch Advanced Training Workflows  
+⚙ PyTorch Advanced Training Workflows  
 📊 Feature Engineering & Data Processing  
 🚀 Model Optimization Concepts  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Collaboration
 
-👯 Open to collaborate on Computer Vision & ML Projects  
-
 👉 https://github.com/RudrapratapSinghTomer/yolov8-CNN-widerface-face-detection
-
----
-
-## 🧪 Project Focus
-
-### 🧠 Deep Learning Architectures
-✔ LeNet  
-✔ AlexNet  
-✔ VGG  
-🔄 ResNet  
-🔄 Inception  
-🔄 EfficientNet  
-
-### 👁 Computer Vision
-- Face Detection
-- Real Dataset Training
-- Model Evaluation & Improvement
 
 ---
 
 ## 📂 My Work
 
-👨‍💻 All Projects  
 👉 https://github.com/repos
 
 ---
 
 ## 📄 Resume
 
-📄 View My Experience  
 👉 https://drive.google.com/file/d/12GpeSwQUOTfIKn8WOJSr3K4s5YnadRpF/view?usp=sharing
 
 ---
@@ -91,23 +83,23 @@ Data Science Enthusiast | Machine Learning | Deep Learning | PyTorch | Computer 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/rudrapratapsinghtomer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://kaggle.com/rudrapratapsinght">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 
 <a href="https://instagram.com/_tomerudra_358">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://www.leetcode.com/rudrapratap0101">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 </p>
 
@@ -115,18 +107,11 @@ Data Science Enthusiast | Machine Learning | Deep Learning | PyTorch | Computer 
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,mysql,git" />
 </p>
 
-### 🤖 ML & Deep Learning
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-### 📊 Data Science Libraries
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Seaborn-DataViz-blue?style=for-the-badge"/>
@@ -138,38 +123,35 @@ Data Science Enthusiast | Machine Learning | Deep Learning | PyTorch | Computer 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rudrapratapsinghtomer&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rudrapratapsinghtomer&theme=flat&no-frame=true&margin-w=5"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudrapratapsinghtomer&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rudrapratapsinghtomer&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapratapsinghtomer&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratapsinghtomer&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=rudrapratapsinghtomer&theme=transparent&hide_border=true" height="170"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrapratapsinghtomer&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/RudrapratapSinghTomer/RudrapratapSinghTomer/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
----
-
-## 🧠 Data Science Philosophy
-
-> I believe in understanding Machine Learning and Deep Learning from fundamentals by implementing architectures and applying them to real-world datasets.
 
 ---
 
