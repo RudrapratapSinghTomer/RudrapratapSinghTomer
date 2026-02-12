@@ -1,83 +1,72 @@
 <h1 align="center">Hi 👋, I'm Rudrapratap Singh Tomer</h1>
-
-<h3 align="center">
-Data Science Enthusiast | Machine Learning | Deep Learning | PyTorch | Computer Vision
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Engineer+in+Progress;Deep+Learning+%7C+PyTorch+%7C+Computer+Vision;Building+Real+World+ML+Projects" />
-</p>
+<h3 align="center">Aspiring Data Scientist | Machine Learning | Deep Learning | PyTorch | Computer Vision</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Passionate about **Data Science, Machine Learning & Deep Learning**
-- 🧠 Love implementing **Deep Learning architectures from scratch**
-- 👁 Exploring **Computer Vision & Real-world ML pipelines**
-- 📈 Preparing for **Data Scientist / ML Engineer roles**
-- 🏗 Building strong fundamentals in **Model Training, Evaluation & Optimization**
+- 📊 Data Science enthusiast with strong interest in **Machine Learning & Deep Learning**
+- 🧠 Focused on understanding models by **implementing architectures from scratch**
+- 👁 Exploring **Computer Vision & Deep Learning model architectures**
+- 🏏 Interested in building ML models using **real-world datasets**
+- 📈 Actively transitioning into **Data Scientist / ML Engineer roles**
 
 ---
 
 ## 🔭 Current Work
 
-🔥 Working on CNN Architecture Implementations  
-👉 **CNN-Architectures-In-Pytorch**  
-https://github.com/RudrapratapSinghTomer/CNN-Architectures-In-Pytorch
+- 🔭 I’m currently working on  
+👉 [CNN-Architectures-In-Pytorch](https://github.com/RudrapratapSinghTomer/CNN-Architectures-In-Pytorch)
 
 ---
 
 ## 🌱 Currently Learning
 
-🧠 Deep Learning Architecture Internals  
-⚙️ PyTorch Advanced Training Workflows  
-📊 Feature Engineering & Data Processing  
-🚀 Model Optimization Concepts  
+- Machine Learning & Deep Learning Fundamentals  
+- CNN Architecture Design & Implementation  
+- Model Training Pipelines in PyTorch  
+- Data Preprocessing & Feature Engineering  
 
 ---
 
-## 🤝 Collaboration
+## 👯 Open For Collaboration
 
-👯 Open to collaborate on Computer Vision & ML Projects  
+- 🤝 Looking to collaborate on  
+👉 [yolov8-CNN-widerface-face-detection](https://github.com/RudrapratapSinghTomer/yolov8-CNN-widerface-face-detection)
 
-👉 yolov8 Face Detection Project  
-https://github.com/RudrapratapSinghTomer/yolov8-CNN-widerface-face-detection
+- 💡 Open to Data Science, ML, and Computer Vision projects
 
 ---
 
-## 🧪 Project Focus Areas
+## 🧪 Featured Project Focus
 
-### 🧠 Deep Learning Architecture Research
-✔ LeNet  
-✔ AlexNet  
-✔ VGG  
-🔄 ResNet  
-🔄 Inception  
-🔄 EfficientNet  
+### 🧠 Deep Learning Architecture Implementation
+- Implementing CNN architectures from scratch
+- Understanding internal working of deep learning models
+- PyTorch-based model building and experimentation
 
-### 👁 Computer Vision
-- Face Detection
-- Real Dataset Training
-- Model Evaluation & Improvement
+### 👁 Computer Vision Projects
+- Face Detection Pipelines
+- Real-world dataset training workflows
+- Model evaluation & improvement
 
 ---
 
 ## 📂 My Work
 
-👨‍💻 All Projects  
+- 👨‍💻 All of my projects are available at  
 👉 https://github.com/repos
 
 ---
 
 ## 📄 Resume
 
-📄 View My Experience  
+- 📄 View My Experience  
 👉 https://drive.google.com/file/d/12GpeSwQUOTfIKn8WOJSr3K4s5YnadRpF/view?usp=sharing
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 📧 **rudrawork01@gmail.com**
 
@@ -85,63 +74,94 @@ https://github.com/RudrapratapSinghTomer/yolov8-CNN-widerface-face-detection
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/rudrapratapsinghtomer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://kaggle.com/rudrapratapsinght"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://instagram.com/_tomerudra_358"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/rudrapratap0101"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<p align="left">
+<a href="https://linkedin.com/in/rudrapratapsinghtomer" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://kaggle.com/rudrapratapsinght" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/_tomerudra_358" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/rudrapratap0101" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages & Tools
 
-### 👨‍💻 Programming & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git" />
-</p>
+<p align="left">
 
-### 📊 Data Science & ML
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
 
-### 🧰 Libraries & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Seaborn-DataViz-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudrapratapsinghtomer&show_icons=true&theme=tokyonight"/>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrapratapsinghtomer&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratapsinghtomer&theme=tokyonight"/>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrapratapsinghtomer&show_icons=true&locale=en" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrapratapsinghtomer&layout=compact&theme=tokyonight"/>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratapsinghtomer&" />
 </p>
 
 ---
 
-## 🧠 Data Science Mindset
+## 🧠 Data Science Philosophy
 
-> "I focus on learning Machine Learning and Deep Learning by building models from fundamentals and applying them to real-world problems."
+> I believe in understanding Machine Learning and Deep Learning models from fundamentals by implementing architectures from scratch and applying them to real-world datasets.
 
 ---
 
-<p align="center">
-⭐ From <a href="https://github.com/repos">Rudrapratap Singh Tomer</a>
-</p>
+⭐ From [Rudrapratap Singh Tomer](https://github.com/repos)
